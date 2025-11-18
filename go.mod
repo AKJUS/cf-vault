@@ -4,7 +4,7 @@ go 1.24.2
 
 require (
 	github.com/99designs/keyring v1.1.6
-	github.com/cloudflare/cloudflare-go v0.115.0
+	github.com/cloudflare/cloudflare-go v0.116.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml v1.9.5
